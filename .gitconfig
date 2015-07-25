@@ -2,7 +2,7 @@
     name = Vladimir Stegantsov
     email = rvn@ya.ru
 [core]
-    editor = subl
+    editor = vim
 [merge]
     tool = vimdiff
 [push]
