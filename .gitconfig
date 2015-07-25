@@ -1,8 +1,8 @@
 [user]
-    name = Ivan Voischev
-    email = voischev.ivan@ya.ru
+    name = Vladimir Stegantsov
+    email = rvn@ya.ru
 [core]
-    editor = vim
+    editor = subl
 [merge]
     tool = vimdiff
 [push]
